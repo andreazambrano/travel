@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /patrickdavid/
+Disallow: /bepatrick/
+Disallow: /smartcontrol/
+Disallow: /template-img/
+Disallow: /tgh/
